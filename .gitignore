@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+build
+package-lock.json
+*_services.json
+*_users.json
+*.key
+.vscode
+multi-agent-poc/.well-known/*
