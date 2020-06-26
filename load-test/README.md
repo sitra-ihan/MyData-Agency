@@ -8,6 +8,4 @@ Just edit the config.js with your agents parameters and run following command in
 
 ### This is how it looks like:
 
-<div align="center">
-![visual](image.gif)
-</div>
+![alt text](https://github.com/sitra-ihan/MyData-Agency/blob/master/load-test/image.gif?raw=true)
